@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pdfsave",
+  "private_key_id": "c309e9e7e14b44beaa713cb8f41b02d532453596",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCOiraj6oSAvpS5\nd3s9A35jPCr8li8/gUl8tOMgbGzpQuOIUWSVldSt+3HOnXOXZw/UB+TnepbGaHPM\nvbKK3kkjdYt7DrXNN4tCWkSq5MfCmNW+J64ncv934lYIRcu83ZOm680V51WIlwHO\nHi4i1J23bcKypV6EemWrO3YFOMZAvDAXLsjb3rqCWMIbEIBylvwG2XSBw4GzQbec\nzr62HBoznKwnRd7y1iOkFw8lunWurlWYjCrfRfKnn7yhe4Q/yE7YNdx4jMKRSBHU\nBo0pFD1bDtUgQI3pipBv0g6E9s86idgRW5WYUVbf3XMoim7Q4CxCG2hKbaudIqgM\nudIEz8EJAgMBAAECggEAQ+TuecUKuAgO7whqOvWfDcVq9ETU3HrIdg3y4U7D0Zd6\nqUOblWR4mSZbXv7AQC1m7KeV8GwDxR2biroQgPTAAZPLjCHFlqoOOtykOIIgZCBI\nLvrXiRLNfFzifa5BDQS9f5Rxay11IEpNIdBeSVjchrJROqZqDs/9/UGlRXd1dv91\n9hQJ9dXu7R3bPmN8x45wXNDDeIXxtHN7mKMFmPjL6mpPsaa8lp4KOKuA9AMdU78G\nMpHfM33ig92h+iQCK4WUJxwuG8jmoJm/01rCvxMZGJzvFySlI4keNmbYDXKzQF2N\nKmj0LM4oWSDjTgTspwXX03FhFC2cf2r8Zm00AmpGwQKBgQDIo8oZS5o8hK0zEeK+\novC4jABm7KuqUclOjj3D/6n7moWELSabUnjpas1da1vHdIXB7nkfz+xhSRBRae/b\nx8JViZ3pdTmVkxRRQc7NFVzXw5PUOS1RUqXwXgmMcONyqR4AXNtMrFPbk7tp7GpC\nDC8vEDHc55DgUEMKAAMhwHSiPwKBgQC13yt50NN6KSDtaPnV7Xl0VKe2xfWCqXb3\ndOzYGtaXBt27ftvVjxZ+7N+5mthOQL/JL9jmicwRrtzJoLsOjsqJRtlh9JJFMJXl\nuouL53L3iadKew4EwY1aZftNCE8wlgHXYJrNRTJzO8ldOKWIY7QENFRyioAFDyQl\nUgwnrPK6twKBgQCV8eJNuTSRWc5exlUgh4FDSk3anbFFXk4FyUPbwKv2fuqdd2jM\n13vJZaoI0P0MOMblwiT/Y1KS+hmZ3oQFSmqvpmM/X/4jDII4n+e/WOHD1kQabIiz\nqAKfeofET3GL9VuYhczWpksdZHDBno9iwNxaXc4F+4FIQnN3e77bcIs53QKBgGMb\nbvSd0HAUc4YMG4DxPKsg6pfV/jiqolKs29fToDaCnlfrBF6275pQ+IWLFO5nqFs5\nAKh4VMUaFeSl+uku9L2j5xfTD9Y2aKjcY+jkQikUUR5sOjJrSt0FD9FlgsnGJNC6\nKwFLAPf8j3mGQeY19sYHwjD8ulCHdLoFoOwJ+ee3AoGBAKnqt3M26wMJcbNi8L8u\nCOhk18fMWYsF9Eo+P7vtOr+uCdIfgFLySDST8fErd1aJXA7g5oy3+vBWvdKSY07I\n8NcWuBVeoYfY41pd0vsAvnLGYRWkgQbnRPfj52Wr5LfL4V3Q3GyI6CLKY6ywiVPK\nWMc1Pf6zO1ET3/NbYtR1m1Jt\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdfsaveacc@pdfsave.iam.gserviceaccount.com",
+  "client_id": "101049053274140204904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdfsaveacc%40pdfsave.iam.gserviceaccount.com"
+}
